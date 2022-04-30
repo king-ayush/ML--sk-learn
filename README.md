@@ -1,9 +1,8 @@
 ### Hi there 👋
-This is Ayush Srivastava a struggling Machine Learning geek trying to figure out the predictions from the datasets.  
+This is Ayush Srivastava a struggling Machine Learning geek trying to figure out the predictions from the datasets. 
+here i have used the sk-learn package for predicting the outcomes.
 <!--
-**king-ayush/king-ayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Machine Learning , Neural networks , Deep Learning frameworks
 - 👯 I’m looking to collaborate on ML/DL projects
