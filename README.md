@@ -1,6 +1,5 @@
 ### Hi there 👋
 This is Ayush Srivastava a struggling Machine Learning geek trying to figure out the predictions from the datasets. 
-here i have used the sk-learn package for predicting the outcomes.
 <!--
 
 
